@@ -1,4 +1,24 @@
 # pdf
+如何增加pdf
+
+之后每一次增加文件时，只需要在web文件增加新的pdf文件，然后执行下列命令：
+
+git add * #git添加所有文件，准备上传
+git commit -m "xxx" #提交文件
+git push -u origin master #上传你提交的文件
+
+回到gitee你创建的仓库中，点击服务-giteepages-更新部署即可。
+访问网址http://zhuang_murong.gitee.io/pdf/web/viewer.html?file=PDF文件名称.pdf
+例：http://zhuang_murong.gitee.io/pdf/web/viewer.html?file=CY2020-36844.pdf
+
+
+
+
+
+
+
+
+
 
 #### 介绍
 {**以下是 Gitee 平台说明，您可以替换此简介**
