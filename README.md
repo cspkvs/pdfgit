@@ -4,56 +4,22 @@
 之后每一次增加文件时，只需要在web文件增加新的pdf文件，然后执行下列命令：
 
 git add * #git添加所有文件，准备上传
+
 git commit -m "xxx" #提交文件
+
 git push -u origin master #上传你提交的文件
 
 回到gitee你创建的仓库中，点击服务-giteepages-更新部署即可。
+
 访问网址http://zhuang_murong.gitee.io/pdf/web/viewer.html?file=PDF文件名称.pdf
+
 例：http://zhuang_murong.gitee.io/pdf/web/viewer.html?file=CY2020-36844.pdf
 
 
+可以在web文件夹下面设置新文件夹，
+
+则网址改成http://zhuang_murong.gitee.io/pdf/web/viewer.html?file=pdf/shizhan/001-JZ-2021-116/reportqery_getreport.pdf
+
+viewer.html?file=后为web下对应文件的路径
 
 
-
-
-
-
-
-
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
