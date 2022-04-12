@@ -15,7 +15,7 @@ git push -u origin master #上传你提交的文件
 
 访问网址例如：
 
-http://zjj_szgcjc.gitee.io/pdf/web/viewer.html?file=pdf/shizhan/001-JZ-2021-116/reportqery_getreport.pdf
+https://zjj_szgcjc.gitee.io/pdfpreview/web/viewer.html?file=pdf/gangjia/GG2020-01147/reportqery_getreport.pdf
 
 viewer.html?file=后为web下对应文件的路径
 
