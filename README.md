@@ -1,3 +1,14 @@
+如何增加PDF
+
+https://9fb2bb05.pdfgit.pages.dev/web/viewer?file=pdf/shizhan/1BL2020-00064/reportqery_getreport.pdf
+
+
+
+
+
+
+
+
 # pdf
 如何增加pdf
 
